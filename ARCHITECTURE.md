@@ -12,7 +12,9 @@ Browser
        ├─ clienti
        ├─ programmi
        ├─ calendario atleta
-       └─ messaggi demo
+       ├─ messaggi demo
+       ├─ community privata
+       └─ piani alimentari
 ```
 
 Non esistono API, database o autenticazione. Ogni dispositivo e browser mantiene una copia locale indipendente dei dati.
@@ -61,6 +63,8 @@ Le chiavi locali usate dalla demo sono:
 - `progressi-days`
 - `progressi-schedule`
 - `progressi-messages`
+- `progressi-community`
+- `progressi-diets`
 
 Il reset cancella il `localStorage` e ripristina i dati iniziali.
 
@@ -107,4 +111,3 @@ Prima di introdurre un backend, separare progressivamente:
 5. Navigazione condizionale in route reali.
 
 Con un backend, mantenere separati dominio, accesso ai dati e UI; introdurre identificativi stabili, isolamento tenant, autorizzazioni per ruolo, audit delle modifiche e gestione coerente dei fusi orari.
-

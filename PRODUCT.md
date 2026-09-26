@@ -26,6 +26,8 @@ Un onboarding visuale in tre passaggi presenta al PT l'agenda operativa, i segna
 
 - **Oggi:** agenda operativa con orari, clienti e stato degli allenamenti.
 - **Calendario:** vista settimanale di chi si allena ogni giorno.
+- **Community:** spazio privato del team, visibile e moderabile dal PT.
+- **Diete:** gestione dei piani alimentari e caricamento per singolo cliente.
 - **Statistiche:** panoramica su miglioramento, plateau, calo e aderenza.
 - **Clienti:** elenco, stato, calendario personale, storico e conversazione.
 - **Programmi di allenamento:** creazione e modifica di schede riutilizzabili.
@@ -40,6 +42,8 @@ Un onboarding visuale in tre passaggi presenta al PT l'agenda operativa, i segna
 - **Superserie:** alternanza guidata tra esercizi collegati con transizione breve.
 - **Progressi:** storico e indicatori dimostrativi.
 - **Messaggi:** comunicazione bidirezionale con il PT.
+- **Community:** post, traguardi e reazioni con gli allievi dello stesso PT.
+- **Dieta:** documento attivo, validità, autore e giornata alimentare.
 
 ## Principi di prodotto
 

@@ -9,6 +9,8 @@ Demo interattiva di un SaaS di performance intelligence per Personal Trainer, pa
 - Workout mobile-first con valori precompilati, stepper, completamento serie e timer recupero
 - Riepilogo workout, Progress Score dimostrativo e storico di 8 settimane
 - Dashboard PT, filtri clienti, dettaglio performance e AI Coach Insight in preview
+- Community privata e condivisa tra PT e allievi, con post e reazioni
+- Piani alimentari per cliente con caricamento documento e vista atleta
 - Creazione locale di clienti e schede da template
 - Persistenza tramite `localStorage` e reset dei dati demo
 - Layout responsive per smartphone, tablet e desktop
