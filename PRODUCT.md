@@ -20,7 +20,7 @@ Consulta il proprio calendario e la scheda, sceglie l'ordine degli esercizi, reg
 
 ### Intro
 
-Un onboarding visuale in tre passaggi presenta al PT l'agenda operativa, i segnali di performance e il collegamento tra programmazione ed esecuzione. Al termine riporta alla landing, lasciando libera la scelta tra modalità PT e atleta. Il reset riapre l'intro.
+Un onboarding visuale presenta la promessa commerciale in tre passaggi: appartenenza attraverso la community, intervento prima dell'abbandono e risultati che rendono visibile il valore del PT. Al termine riporta alla landing, lasciando libera la scelta tra modalità PT e atleta. Il reset riapre l'intro.
 
 ### Area PT
 
