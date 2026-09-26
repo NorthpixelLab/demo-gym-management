@@ -12,6 +12,9 @@ select:focus,select:focus-visible{outline:none;border-color:#8eb889!important;bo
 .intro-stage{min-height:0}
 @media(max-width:760px){.intro-tour{grid-template-rows:60px minmax(0,1fr) 104px!important}}
 @media(max-width:760px){
+  .intro-tour .intro-stage{height:100%;margin:0 auto;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:none;padding-bottom:16px}
+  .intro-tour .intro-stage::-webkit-scrollbar{display:none;width:0;height:0}
+  .intro-tour>footer{position:relative;z-index:2;background:linear-gradient(180deg,#f7f8f600,#f7f8f6 24%)}
   .intro-tour.step-3 .intro-visual{min-height:300px}
   .intro-tour.step-3 .intro-copy h1{font-size:clamp(29px,8vw,38px);line-height:1}
   .intro-tour.step-3 .intro-copy h2{margin-top:9px}
