@@ -1,8 +1,8 @@
-# Progressì — Product brief
+# PTCommand — Product brief
 
 ## Visione
 
-Progressì è un prodotto di gestione e performance intelligence per Personal Trainer, palestre e atleti. Riduce l'attrito nella registrazione degli allenamenti e trasforma presenze, carichi e costanza in indicazioni immediatamente utili per il coach.
+PTCommand è un prodotto di gestione e performance intelligence per Personal Trainer, palestre e atleti. Riduce l'attrito nella registrazione degli allenamenti e trasforma presenze, carichi e costanza in indicazioni immediatamente utili per il coach.
 
 La promessa è semplice: l'atleta sa sempre cosa fare; il PT sa subito chi sta progredendo, chi è fermo e chi richiede attenzione.
 

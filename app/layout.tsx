@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Progressì — Ogni allenamento conta',
-  description: 'Progressì rende semplici gli allenamenti e chiari i progressi.',
+  title: 'PTCommand — Il controllo del tuo coaching',
+  description: 'PTCommand aiuta i personal trainer a gestire clienti, programmi, sessioni e progressi.',
+  icons: { icon: '/demo-gym-management/favicon.svg' },
 };
 
 export default function RootLayout({

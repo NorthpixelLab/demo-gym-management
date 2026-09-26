@@ -2,7 +2,7 @@
 
 ## Obiettivo del repository
 
-Questo repository contiene la demo interattiva di **Progressì**, un prodotto per Personal Trainer e atleti. Ogni modifica deve preservare la qualità della demo commerciale, la coerenza tra area PT e area atleta e la possibilità di pubblicare su GitHub Pages.
+Questo repository contiene la demo interattiva di **PTCommand**, un prodotto per Personal Trainer e atleti. Ogni modifica deve preservare la qualità della demo commerciale, la coerenza tra area PT e area atleta e la possibilità di pubblicare su GitHub Pages.
 
 Prima di modificare il prodotto, leggere:
 
@@ -72,4 +72,3 @@ Una modifica è completa quando:
 4. preserva reset e persistenza locale;
 5. supera lint, build statica e controllo whitespace;
 6. aggiorna la documentazione se cambia prodotto, architettura o procedura.
-

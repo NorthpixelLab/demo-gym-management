@@ -1,4 +1,4 @@
-# Progressì
+# PTCommand
 
 Demo interattiva di un SaaS di performance intelligence per Personal Trainer, palestre e atleti. L'obiettivo è validare un'esperienza in cui l'atleta registra ogni serie con pochissimo attrito e il coach identifica in pochi secondi progressi, plateau e criticità.
 

@@ -2,7 +2,7 @@
 
 ## Panoramica
 
-Progressì è attualmente una single-page demo in React e TypeScript. La UI, i dati mock e la maggior parte della logica applicativa risiedono in `app/page.tsx`; lo stile globale e responsive risiede in `app/globals.css`.
+PTCommand è attualmente una single-page demo in React e TypeScript. La UI, i dati mock e la maggior parte della logica applicativa risiedono in `app/page.tsx`; lo stile globale e responsive risiede in `app/globals.css`.
 
 ```text
 Browser
